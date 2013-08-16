@@ -8,6 +8,6 @@ var daysPerWeek = 7;
 var daysPerMonth = daysPerWeek * 4;
 var daysPerYear = daysPerMonth * 12;
 var shoesPerMonth = prompt("How many shoes do you buy a week");
-var shoesPerYear = shoesPerMonth / daysPerYear;
-console.log(shoesPerYear);
+var shoesPerYear = daysPerYear / ShoesPerMonth;
+console.log(shoesPerYear)
 
