@@ -7,7 +7,10 @@ alert("This is in the js file");
 var daysPerWeek = 7;
 var daysPerMonth = daysPerWeek * 4;
 var daysPerYear = daysPerMonth * 12;
-var shoesPerMonth = prompt("How many shoes do you buy a week");
-var shoesPerYear = daysPerYear / ShoesPerMonth;
-console.log(shoesPerYear)
+var shoesPerMonth = prompt("How many shoes do you buy a month");
+var shoesPerYear = (daysPerYear / shoesPerMonth);
+console.log(daysPerWeek);
+console.log(daysPerMonth);
+console.log(daysPerYear);
+console.log(shoesPerYear);
 
