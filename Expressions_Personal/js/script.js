@@ -5,9 +5,15 @@
 // //for shoes and how many shoes I would have bought in 1 year depending on how many shoes I buy per month
 alert("This is in the js file");
 //unit in days
-var months = 12;
-var year = 365;
-var shoesPerYear = months * prompt("how many shoes do you buy in a month");
-console.log(year);
+var days = 1;
+var daysInAWeek =  7;
+var week = days * 7;
+var weeksInAMonth = 4;
+var daysInAMonth = week * weeksInAMonth;
+var monthsInAYear = 12;
+var daysInAyear = monthsInAYear * daysInAMonth;
+var shoesPerYear = monthsInAYear * prompt("how many shoes do you buy in a month");
 console.log(shoesPerYear);
+
+
 
