@@ -1,16 +1,14 @@
 //EwingSudds, Shannon 16 August 2013 Expressions_Assignment
 
 //Expressions_Personal
-//This will be a calculator to determine how many shoes I will have bought in 1 year if i bought a pair of shoes every week for four weeks a month
+//This will be a calculator to determine how many days I would have shopped
+// //for shoes and how many shoes I would have bought in 1 year depending on how many shoes I buy per month
 alert("This is in the js file");
-// Set the unit values in days
-var daysPerWeek = 7;
-var daysPerMonth = daysPerWeek * 4;
-var daysPerYear = daysPerMonth * 12;
-var shoesPerMonth = prompt("How many shoes do you buy a month");
-var shoesPerYear = (daysPerYear / shoesPerMonth);
-console.log(daysPerWeek);
-console.log(daysPerMonth);
-console.log(daysPerYear);
+var days = 1;
+var week = days * 7;
+var weeksInAMonth = 4;
+var daysInAMonth = week * weeksInAMonth;
+var monthsInAYear = 12;
+var shoesPerYear = monthsInAYear * prompt("how many shoes do you buy in a month");
 console.log(shoesPerYear);
 
