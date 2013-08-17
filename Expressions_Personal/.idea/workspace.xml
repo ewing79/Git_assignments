@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b23360e4-dd35-4f6a-a53f-4a9e6358230a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Expressions_Personal.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/script.js" changelist="b23360e4-dd35-4f6a-a53f-4a9e6358230a" time="1376697221626" ignored="false" />
-    <file path="/Dummy.txt" changelist="b23360e4-dd35-4f6a-a53f-4a9e6358230a" time="1376697004205" ignored="false" />
+    <file path="/Dummy.txt" changelist="b23360e4-dd35-4f6a-a53f-4a9e6358230a" time="1376697356843" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +324,11 @@
       <created>1376697009551</created>
       <updated>1376697009551</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update Expressions_Personal">
+      <created>1376697359202</created>
+      <updated>1376697359202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
