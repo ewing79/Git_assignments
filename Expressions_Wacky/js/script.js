@@ -8,5 +8,3 @@ var licksPerMinute = prompt("How many licks did you lick per minute?");
 var minutesToLick= prompt("how many minutes did it take you to get to the center of the lollipop?");
 var hoursToLick = minutesToLick / licksPerMinute;
 console.log(hoursToLick);
-
-
