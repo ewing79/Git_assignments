@@ -11,3 +11,8 @@ if(customers - pattiesCoocked <= 0)
 {
     console.log("Yes, SpongeBob has cooked enough Crabby Patties!");
 }
+else
+{
+//
+    console.log("You need to cook 88 more Crabby Patties to make Mr. Crabs a happy man!");
+}
