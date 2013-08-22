@@ -4,8 +4,8 @@
     <list default="true" id="4152b88b-749b-43d7-809c-84699bcf8553" name="Default" comment="" />
     <ignored path="Conditionals_Wacky.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4152b88b-749b-43d7-809c-84699bcf8553" time="1377132818432" ignored="false" />
-    <file path="/script.js" changelist="4152b88b-749b-43d7-809c-84699bcf8553" time="1377132746008" ignored="false" />
+    <file path="/Dummy.txt" changelist="4152b88b-749b-43d7-809c-84699bcf8553" time="1377133049267" ignored="false" />
+    <file path="/script.js" changelist="4152b88b-749b-43d7-809c-84699bcf8553" time="1377132946734" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="550" selection-end="550" vertical-scroll-proportion="0.45454547">
+            <state line="17" column="73" selection-start="768" selection-end="768" vertical-scroll-proportion="0.5944056">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -183,7 +183,15 @@
       <created>1377132822911</created>
       <updated>1377132822911</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update conditionals_wacky">
+      <created>1377133001659</created>
+      <updated>1377133001659</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update conditionals_wacky">
+      <created>1377133050665</created>
+      <updated>1377133050665</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -280,7 +288,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="550" selection-end="550" vertical-scroll-proportion="0.45454547">
+        <state line="17" column="73" selection-start="768" selection-end="768" vertical-scroll-proportion="0.5944056">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
