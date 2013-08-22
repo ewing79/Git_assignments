@@ -5,4 +5,9 @@
 //First I will list the givens
 //There are 100 sea creatures at the Crusty Crab
 var customers = 100;
-//How many patties has SpngeBob cooked?
+//How many patties has SpongeBob cooked?
+var pattiesCoocked = 12;
+if(customers - pattiesCoocked <= 0)
+{
+    console.log("Yes, SpongeBob has cooked enough Crabby Patties!");
+}
