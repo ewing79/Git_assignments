@@ -13,6 +13,6 @@ if(customers - pattiesCoocked <= 0)
 }
 else
 {
-//
+//since there are 100 customers and SpongeBob has only cooked 12 patties he still needs to cook 88 more Crabby Patties
     console.log("You need to cook 88 more Crabby Patties to make Mr. Crabs a happy man!");
 }
