@@ -14,3 +14,7 @@ var passMiles = 8;
 //must ruck march 8 miles
 var passTime = 2;
 //must complete ruck march in 2 hours
+if(ruckWeight != 30)
+{
+    console.log("You didn't have enough weight");
+}
