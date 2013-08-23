@@ -8,3 +8,9 @@ var milesCompleted = Prompt("How many miles did you complete");
 //must complete at least 8 miles
 var timeCompleted = prompt("how long did it take you to complete the ruck march?");
 //Ruck March must be completed in 2 hours
+var passWeight = 30;
+//weight in lbs
+var passMiles = 8;
+//must ruck march 8 miles
+var passTime = 2;
+//must complete ruck march in 2 hours
