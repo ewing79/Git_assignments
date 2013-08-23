@@ -18,3 +18,11 @@ if(ruckWeight != 30)
 {
     console.log("You didn't have enough weight");
 }
+if(milesCompleted != 8)
+{
+    console.log("You didn't complete enough miles");
+}
+if(timeCompleted != 2)
+{
+    console.log("You didn't finish in enough time");
+}
