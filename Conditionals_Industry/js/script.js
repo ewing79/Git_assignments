@@ -6,4 +6,5 @@ var ruckWeight = prompt("what is your ruck wight");
 //ruck weight has to be at least 30lbs
 var milesCompleted = Prompt("How many miles did you complete");
 //must complete at least 8 miles
-
+var timeCompleted = prompt("how long did it take you to complete the ruck march?");
+//Ruck March must be completed in 2 hours
