@@ -8,15 +8,17 @@ function washClothes(loads)
     var washClothes = loads * daysWashed;
     console.log ("The number of loads of clothes that I have to wash a day is" + " " + washClothes)
 }
-washClothes(2);
-washClothes(5);
-washClothes(10);
-if (washClothes <= 20)
+if (washClothes <= 10)
 {
-   console.log("That's not too bad");
+    console.log("That's not too bad");
 }
 if (washClothes >= 20)
 {
     console.log("That is quite a few clothes you hve to wash!!");
 }
-if
+if (washCLothes >= 40)
+{
+    conosole.log("My Goodness That Is A Lot Of Washing!!");
+}
+washClothes(2);
+
