@@ -5,7 +5,7 @@
 function circumferenceCircle(diameter)
 {
     var circumferenceCircle = diameter * 3.14;
-    console.log ("The circumference of the circle is" + "" + circumferenceCircle)
+    console.log ("The circumference of the circle is" + " " + circumferenceCircle)
 }
 circumferenceCircle(2);
 circumferenceCircle(3);
