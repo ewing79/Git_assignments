@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3055fb-3830-4375-ad3c-3a4865fc84c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Personal/index.html" afterPath="$PROJECT_DIR$/Functions_Personal/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Industry/js/script.js" afterPath="$PROJECT_DIR$/Functions_Industry/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Personal/js/script.js" afterPath="$PROJECT_DIR$/Functions_Personal/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Wacky/js/script.js" afterPath="$PROJECT_DIR$/Functions_Wacky/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Git_assignments.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377813734713" ignored="false" />
-    <file path="/script.js" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377816502997" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377816895284" ignored="false" />
+    <file path="/script.js" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377816615882" ignored="false" />
     <file path="/index.html" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377815052410" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,21 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions_Worksheet/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="30" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="2" selection-start="576" selection-end="576" vertical-scroll-proportion="0.8246073">
+            <state line="22" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.8638743">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -57,7 +43,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="61" selection-start="167" selection-end="167" vertical-scroll-proportion="-6.25">
+            <state line="10" column="64" selection-start="167" selection-end="167" vertical-scroll-proportion="-6.25">
               <folding />
             </state>
           </provider>
@@ -358,7 +344,15 @@
       <created>1377813737100</created>
       <updated>1377813737100</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="functions_worsksheet update&#10;">
+      <created>1377816523072</created>
+      <updated>1377816523072</updated>
+    </task>
+    <task id="LOCAL-00006" summary="functions_worsksheet update&#10;">
+      <created>1377816897584</created>
+      <updated>1377816897584</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,22 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="61" selection-start="167" selection-end="167" vertical-scroll-proportion="-6.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Worksheet/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="30" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="26" selection-start="79" selection-end="79" vertical-scroll-proportion="0.03797468">
@@ -532,9 +510,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Worksheet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="30" selection-start="364" selection-end="364" vertical-scroll-proportion="0.5104712">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="64" selection-start="167" selection-end="167" vertical-scroll-proportion="-6.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="2" selection-start="576" selection-end="576" vertical-scroll-proportion="0.8246073">
+        <state line="22" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.8638743">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
