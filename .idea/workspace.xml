@@ -6,7 +6,7 @@
     </list>
     <ignored path="Git_assignments.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377819218133" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377819229791" ignored="false" />
     <file path="/script.js" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377816615882" ignored="false" />
     <file path="/index.html" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377815052410" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -238,7 +238,11 @@
       <created>1377819220291</created>
       <updated>1377819220291</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="functions_worksheet final&#10;">
+      <created>1377819240113</created>
+      <updated>1377819240113</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
