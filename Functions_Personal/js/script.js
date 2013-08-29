@@ -1,1 +1,1 @@
-alert("This is in the js file");
+//Shannon Ewing-Sudds 29 Aug 2013 Functions_Personal
