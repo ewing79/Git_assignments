@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b3055fb-3830-4375-ad3c-3a4865fc84c0" name="Default" comment="" />
+    <list default="true" id="3b3055fb-3830-4375-ad3c-3a4865fc84c0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Git_assignments.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377823869219" ignored="false" />
-    <file path="/script.js" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377823810123" ignored="false" />
-    <file path="/index.html" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377815052410" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377823868903" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377825545158" ignored="false" />
+    <file path="/script.js" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377825339372" ignored="false" />
+    <file path="/index.html" changelist="3b3055fb-3830-4375-ad3c-3a4865fc84c0" time="1377825019156" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,18 +29,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
+        <entry file="file://$PROJECT_DIR$/Functions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="70" selection-start="134" selection-end="158" vertical-scroll-proportion="-5.0">
+            <state line="8" column="54" selection-start="123" selection-end="147" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="45" selection-start="411" selection-end="411" vertical-scroll-proportion="0.66753924">
+            <state line="21" column="70" selection-start="708" selection-end="708" vertical-scroll-proportion="0.8246073">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -66,10 +67,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Functions_Worksheet/js/script.js" />
-        <option value="$PROJECT_DIR$/Functions_Wacky/js/script.js" />
         <option value="$PROJECT_DIR$/Functions_Personal/index.html" />
         <option value="$PROJECT_DIR$/Functions_Personal/js/script.js" />
         <option value="$PROJECT_DIR$/Functions_Industry/js/script.js" />
+        <option value="$PROJECT_DIR$/Functions_Wacky/index.html" />
+        <option value="$PROJECT_DIR$/Functions_Wacky/js/script.js" />
       </list>
     </option>
   </component>
@@ -120,6 +122,70 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Wacky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Wacky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Git_assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -286,7 +352,11 @@
       <created>1377823874390</created>
       <updated>1377823874390</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="functions_worksheet final&#10;">
+      <created>1377825546989</created>
+      <updated>1377825546989</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -422,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.03797468">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="30" selection-start="364" selection-end="364" vertical-scroll-proportion="0.5104712">
@@ -445,9 +508,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="64" selection-start="588" selection-end="588" vertical-scroll-proportion="0.7643979">
+        <state line="11" column="49" selection-start="276" selection-end="276" vertical-scroll-proportion="0.43193716">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -456,14 +519,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="70" selection-start="134" selection-end="158" vertical-scroll-proportion="-5.0">
+        <state line="8" column="70" selection-start="134" selection-end="158" vertical-scroll-proportion="0.32345015">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="45" selection-start="411" selection-end="411" vertical-scroll-proportion="0.66753924">
+        <state line="11" column="14" selection-start="170" selection-end="587" vertical-scroll-proportion="0.33246073">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Wacky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="54" selection-start="123" selection-end="147" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="70" selection-start="708" selection-end="708" vertical-scroll-proportion="0.8246073">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
